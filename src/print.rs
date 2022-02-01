@@ -7,5 +7,7 @@ pub fn run() {
     println!("{} is so {}", "Saahil", "lazy");
 
     println!("{0} is from {1} and {0} likes to {2}", "Saahil", "Bhaktapur", "code");
+
+    println!("{name} like to play {activity}.", name="Saahil", activity="Video games");
 }
 
