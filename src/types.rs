@@ -48,6 +48,4 @@ pub fn run() {
     let face = '\u{1F600}';
 
     println!("{:?}", (x, y, z, is_active, is_greater, char_1, face));
-
-
 }
