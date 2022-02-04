@@ -10,6 +10,7 @@ mod loops;
 mod functions;
 mod references;
 mod structs;
+mod enums;
 
 fn main() {
     print::run();
@@ -24,4 +25,5 @@ fn main() {
     functions::run();
     references::run();
     structs::run();
+    enums::run();
 }
